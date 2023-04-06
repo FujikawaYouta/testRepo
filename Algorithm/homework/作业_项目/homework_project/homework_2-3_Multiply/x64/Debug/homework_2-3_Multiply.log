@@ -1,0 +1,9 @@
+﻿  multiply.cpp
+D:\Grade II\Algorithm\homework\作业_项目\homework_project\homework_2-3_Multiply\multiply.cpp(31,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Grade II\Algorithm\homework\作业_项目\homework_project\homework_2-3_Multiply\multiply.cpp(32,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Grade II\Algorithm\homework\作业_项目\homework_project\homework_2-3_Multiply\multiply.cpp(35,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Grade II\Algorithm\homework\作业_项目\homework_project\homework_2-3_Multiply\multiply.cpp(67,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Grade II\Algorithm\homework\作业_项目\homework_project\homework_2-3_Multiply\multiply.cpp(68,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Grade II\Algorithm\homework\作业_项目\homework_project\homework_2-3_Multiply\multiply.cpp(71,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Grade II\Algorithm\homework\作业_项目\homework_project\homework_2-3_Multiply\multiply.cpp(168,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  homework_2-3_Multiply.vcxproj -> D:\Grade II\Algorithm\homework\作业_项目\homework_project\x64\Debug\homework_2-3_Multiply.exe

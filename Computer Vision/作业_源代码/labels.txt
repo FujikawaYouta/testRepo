@@ -1,0 +1,5 @@
+0 earphoneCharger
+1 smartphone
+2 charger
+3 mobileBattery
+4 None
